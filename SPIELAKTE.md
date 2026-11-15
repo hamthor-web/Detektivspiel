@@ -106,7 +106,41 @@ Eine eigenständige HTML-Datei `Lesedetektive_Fall_01_Die_verschwundene_Nase.htm
 
 Für spätere Animationen gilt: Vorhandene Würstchen-Videos und die zuletzt freigegebene Bewegungsreferenz berücksichtigen; keine neue Ganganimation ohne ausdrückliche Freigabe. Die genaue Rolle des Würstchens im Detektivbüro, bei Rätseln und beim Fallabschluss ist noch zu gestalten.
 
+## Fall 01 – neue Schneemann-Szene und Fortsetzung (16.11.2026)
+
+**Status:** Eingangsszene als Nutzeridee aufgenommen; fortführender Fallablauf ist **ein Vorschlag**, nicht final freigegeben und nicht programmiert.
+
+### Ursprungsidee der Nutzerin – ausdrücklich zu bewahren
+
+Das **Würstchen im gestreiften Pyjama mit Krönchen** kommt an einem Schneemann vorbei. Mitten in dessen Gesicht steht ein **Topf Sahne**. Der Schneemann jammert: **„Hilfe! Hilfe! Mach, dass das weggeht!“** Das Würstchen erkennt, dass etwas falsch ist, kann das Fehlende aber zunächst nicht benennen. Es wirft die Sahne in einen **Mixer**. Heraus kommen die bunten Einzelbuchstaben **S, A, H, N, E**. Das Kind legt daraus **NASE**. Das **H** bleibt übrig, kommt in den **Rucksack** und wird **später im selben Fall benötigt**.
+
+Das ist der neue entscheidende Ansatz: Eine ungewöhnliche Szene führt zu einer sinnvollen Leseaufgabe und erzeugt gleichzeitig einen **aufbewahrten Hinweis**. Die Nutzerin hat mit „Mixer“ ein konkretes Gerät genannt; der ältere Reißwolf bleibt eine mögliche zusätzliche Ermittlungsmechanik und darf nicht stillschweigend an dessen Stelle gesetzt werden.
+
+### Ausformulierter Fallablauf – vorläufiger Ausbau
+
+1. **Hilferuf im Schnee:** Würstchen trifft den Schneemann mit Sahnetopf statt Karottennase; die echte Nase ist verschwunden.
+2. **Buchstabenmixer:** Aus SAHNE fallen S, A, H, N, E. Das Kind legt NASE; H wandert in den Rucksack. Die Lösung benennt das Fehlende, findet aber noch nicht die echte Karotte.
+3. **Zettel im Garten:** „Suche bei der _UT!“ Der gespeicherte Buchstabe H ergibt **HUT**. Unter einem sichtbaren Hut liegt ein Schlüssel. Die Darstellung muss den richtigen Hut eindeutig auffindbar machen.
+4. **Verstecktes Glücksrad:** Der Schlüssel öffnet eine Tür an einer Hütte. Dahinter wird ein verborgenes Glücksrad entdeckt. Es liefert einen für die nächste Spur benötigten Buchstaben **K**, der in den Rucksack wandert. Das Rad darf den zum Lösen notwendigen Buchstaben nicht zufällig vorenthalten.
+5. **Zweiter Zettel:** „Die Antwort liegt in der _ISTE.“ Das Kind ergänzt das K zu **KISTE**, findet eine Kiste und öffnet sie.
+6. **Beweis und Auflösung:** In der Kiste liegen Karotte und ein Brief. **Vorschlag:** Ein Hase hat die Karotte für einen Geburtstagskuchen genommen und Sahne als vermeintlichen Ersatz dagelassen. Das Kind beantwortet Fragen nach Täter, Grund und Sahne-Ersatz. **Diese Tätergeschichte ist nur ein erster Versuch und kann verändert werden.**
+7. **Pinnwand-Abschluss:** Karottennase kehrt zurück; die Akte erhält einen Stempel **„FALL GELÖST!“** und wird mit einem kräftigen „KLACK!“ an die persönliche Pinnwand geheftet. Eine neue eigene Fallakte soll dort später hinzukommen können.
+
+### Lernmechanik und Hinweise für die Umsetzung
+
+- Mehrschrittige Spurensuche und **späteres Wiederverwenden** eines überzähligen Buchstabens; kein bloßes Aneinanderreihen isolierter Wortpaare.
+- Wortzerlegung und Anagramm bei **SAHNE → NASE + H**; Buchstabenergänzung bei **_UT → HUT** und **_ISTE → KISTE**.
+- Schrift klar sichtbar an der Maschine darstellen, damit die Umwandlung von Sahne in Buchstaben für das Kind verständlich bleibt.
+- Vorläufig ohne Zeitdruck; Lese- und Animationspausen sollen vom Kind kontrollierbar sein.
+- Großer Schriftregler und unabhängiger Bild-/Spielfeldzoom, gut bedienbar im Hoch- und Querformat.
+- Rucksack-Inhalt in der laufenden Ermittlung erreichbar und nachvollziehbar; keine wichtigen Hinweise durch nicht reproduzierbaren Zufall verlieren.
+- Nicht automatisch davon ausgehen, dass Fallgeschichte, Illustrationen oder Animationen bereits erstellt oder getestet sind.
+
+**Detailkonzept:** [FALL_01_KONZEPT.md](FALL_01_KONZEPT.md).
+
 ## Änderungsverlauf
+
+- **16.11.2026:** Neue Schneemann-Szene mit SAHNE → NASE + H im Rucksack nach Nutzeridee aufgenommen; vorläufige Fortsetzung mit HUT, verborgenem Glücksrad, KISTE und möglicher Auflösung als separaten Fallentwurf dokumentiert.
 
 - **15.11.2026 (Ergänzung):** Geheimes Glücksrad als verstecktes Ermittlungswerkzeug mit Türspuren und später nutzbarem Buchstaben festgehalten. Das **Würstchen im gestreiften Pyjama mit Krönchen** als Markenzeichen bestätigt.
 
