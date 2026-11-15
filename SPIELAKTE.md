@@ -88,7 +88,27 @@ Eine eigenständige HTML-Datei `Lesedetektive_Fall_01_Die_verschwundene_Nase.htm
 - **Historische Entscheidungen:** Chatverlauf vom 15.11.2026.
 - **ChatGPT-Projektquellen und Masterübersicht:** Werden durch GitHub **nicht automatisch** aktualisiert. Für das zentrale Projekt muss bei Statusänderungen separat eine Verknüpfung bzw. eine Übersicht gepflegt werden.
 
+## Neue Konzeptidee: geheimes Glücksrad, Türen und mehrstufige Hinweise (15.11.2026)
+
+**Status: ausdrücklich zur Spielakte hinzuzufügende Idee, aber noch kein final bestätigter Fallablauf.**
+
+- Hinweise können **versteckt** sein und das Kind schrittweise zu einer **bestimmten Tür oder einem geheimen Raum** führen. Der Weg muss aus dem Lesen und Deuten von Spuren hervorgehen.
+- Mögliche Rätselmechaniken auf diesem Weg: **ein überflüssiger Buchstabe**, ein **umgestelltes Wort / Anagramm**, ein fehlender Buchstabe oder eine verdächtige Wortveränderung. Welche Mechanik für welchen Fall sinnvoll ist, bleibt offen.
+- **Erst nach einer erfolgreichen Spurensuche erscheint ein verborgenes Glücksrad** – zum Beispiel hinter einer Tür, einem beweglichen Bild oder einem Bücherregal. Das Kind entdeckt es, statt es bloß jederzeit im Hauptmenü aufzurufen.
+- Das Rad **gibt einen wichtigen Buchstaben oder Wortteil aus**, der zunächst gesammelt und möglicherweise **erst später** zum Öffnen einer Kiste, Entschlüsseln einer Nachricht oder Auflösen des Falls gebraucht wird.
+- Beispiel **nur zur Illustration**: Das Glücksrad liefert „S“; später findet sich „_CHLOSS“. Das Kind kombiniert den Hinweis und ergänzt „SCHLOSS“. Das ist noch keine geprüfte Geschichte.
+- Das Rad sollte den für den Fall nötigen Hinweis **verlässlich liefern**. Der Dreh sorgt für Spannung, darf aber eine logisch notwendige Lösung nicht vom Glück abhängig machen.
+- Das lässt sich später mit dem **Reißwolf** verbinden: Aus zerkleinerten Dokumenten fallen bunte, durcheinandergewürfelte Buchstaben, die mithilfe zuvor gesammelter Hinweise gedeutet werden.
+
+### Wiederkehrende Hauptfigur / Markenzeichen – bestätigt
+
+**Das bisherige Würstchen im gestreiften Pyjama mit Krönchen bleibt das wiedererkennbare Markenzeichen des Spiels**, wie in den anderen Lesespielen. Das Glücksrad ist lediglich ein verstecktes Ermittlungswerkzeug, **nicht** das Markenzeichen oder eine Ersatzfigur.
+
+Für spätere Animationen gilt: Vorhandene Würstchen-Videos und die zuletzt freigegebene Bewegungsreferenz berücksichtigen; keine neue Ganganimation ohne ausdrückliche Freigabe. Die genaue Rolle des Würstchens im Detektivbüro, bei Rätseln und beim Fallabschluss ist noch zu gestalten.
+
 ## Änderungsverlauf
+
+- **15.11.2026 (Ergänzung):** Geheimes Glücksrad als verstecktes Ermittlungswerkzeug mit Türspuren und später nutzbarem Buchstaben festgehalten. Das **Würstchen im gestreiften Pyjama mit Krönchen** als Markenzeichen bestätigt.
 
 - **15.11.2026:** Wortpaare und erster HTML-Testfall; erzählerische Schwäche bei MAUS → HAUS festgestellt.
 - **15.11.2026:** Glücksrad und Reißwolf vorgeschlagen; ein Spiel mit mehreren Fällen, Pinnwand und Wahl Zufallsakte/eigene Akte bestätigt.
