@@ -1,58 +1,95 @@
-# Detektivspiel – zentrale Spielakte und Vereinbarungen
+# Detektivspiel – zentrale Spielakte
 
-**Stand:** 15.11.2026 · **Status:** Konzept in Entwicklung, erster eigenständiger HTML-Prototyp vorhanden, aber noch keine freigegebene Endfassung.
+**Stand:** 15.11.2026 · **Status:** Konzeptentwicklung.  
+**Repository:** https://github.com/hamthor-web/Detektivspiel  
+**Spätere mögliche Integration:** viertes Spiel der Lesedetektive, nur nach gesonderter Freigabe.
 
-> **Verbindlicher Ablageort für dieses Spiel:** Dieses Repository `hamthor-web/Detektivspiel`. Hier werden künftig alle bestätigten Entscheidungen und der technische Stand dokumentiert. Eine Datei in GitHub ist **nicht automatisch** eine ChatGPT-Projektquelle. Änderungen an der bestehenden App `hamthor-web/lesedetektive` sind damit **nicht** erfolgt.
+> Diese Datei ist die verbindliche, fortlaufende Dokumentation des Spielkonzepts. Sie unterscheidet ausdrücklich Beschlüsse, Ideen und technische Umsetzung. GitHub-Dateien werden nicht automatisch zu ChatGPT-Projektquellen.
 
-## 1. Bestätigte Entscheidungen
+## Ziel und Material
 
-- **Ein einziges zusammenhängendes Detektivspiel**, keine vier oder fünf eigenständigen Minispiele. Ein Fall umfasst mehrere abwechslungsreiche Ermittlungsrunden.
-- Die **Detektivakte** enthält die Aufgabe, Hinweise und den Ermittlungsfortschritt. Neue Fälle kommen nach und nach hinzu.
-- Das Kind kann **eine zufällige Fallakte ziehen** oder **einen bestimmten Fall selbst auswählen**.
-- Jeder Fall erhält einen **bezeichnenden, neugierig machenden Namen**, etwa **„Wer stahl des Schneemanns Nase?“**. Das Wortspiel *stahl/Stahl* ist als Materialidee ausdrücklich willkommen.
-- Nach erfolgreicher Aufklärung wird die Akte als **„GELÖST“ gekennzeichnet und sichtbar an eine Pinnwand geheftet**. Die Pinnwand ist die wachsende Sammlung abgeschlossener Fälle.
-- Ausgangspunkt sind die ähnlichen Wörter aus der von Heike bereitgestellten Sammlung **„Nur ein bisschen anders“**. Weitere passende Wörter dürfen frei ergänzt werden.
-- **Buchstabenveränderungen und Spurensuche** sollen zum Spielkern gehören. Die Hinweise müssen innerhalb der Geschichte **sinnvoll und notwendig** sein; Wortpaare dürfen nicht bloß künstlich aneinandergereiht werden.
-- **Reißwolf-Idee:** Ein Wort oder eine Nachricht verschwindet oben in einem Aktenvernichter; unten purzeln **einzelne bunte, durcheinandergewürfelte Buchstaben** heraus. Die genaue Spielmechanik ist noch offen.
-- **Glücksrad-Idee:** Das Glücksrad soll als mögliches Ermittlungswerkzeug berücksichtigt werden; seine konkrete Funktion ist **noch nicht beschlossen**.
-- Die Entwicklung erfolgt **zunächst nur im neuen Repository** `hamthor-web/Detektivspiel`. Das bestehende Repository `hamthor-web/lesedetektive` bleibt bis zu einer ausdrücklichen Integrationsentscheidung unverändert.
+Ein zusammenhängendes Detektivspiel für Kinder der zweiten Klasse (auch DaZ) über ähnlich geschriebene Wörter und die Bedeutung kleiner Buchstabenänderungen. Ausgangsmaterial: Nutzerdatei **„nur ein bisschen anders .docx“** mit 57 Wortpaaren und Beispielsätzen. Die Nutzerin hat weitere passende Wörter ausdrücklich erlaubt. Wörter sollen nicht willkürlich umgewandelt werden: **Die Geschichte muss das Worträtsel notwendig machen**. Es soll eine echte Spurensuche mit Schlussfolgerung entstehen, keine bloße Folge isolierter Richtig/Falsch-Aufgaben.
 
-## 2. Offen und nicht beschlossen
+## Bestätigte Entscheidungen
 
-- Konkreter Ablauf der einzelnen Fälle, Zahl der Runden pro Fall, Schwierigkeitsstufen und Hinweise.
-- Ob und wie Glücksrad und Reißwolf zusammenwirken; ob es falsche/echt bleibende Spuren und verschiedene Ermittlungswege gibt.
-- Ob Zufall zunächst ungelöste Fälle bevorzugt und wie bereits gelöste Fälle erneut spielbar sind.
-- Wie das Detektivbüro, die Akten und die Pinnwand bildlich und animiert gestaltet werden.
-- Ob die Spielfigur ein Buchstabendieb ist und welche Rolle mögliche Verdächtige spielen.
-- Der erste Fall **„Die verschwundene Nase“** ist ein **Prototyp**. Insbesondere der Übergang **MAUS → HAUS** wurde als erzählerisch unlogisch beanstandet. Die Geschichte ist zu überarbeiten, bevor sie als Fall freigegeben wird.
-- Anzahl und Reihenfolge der künftigen Fälle sowie Veröffentlichung als eigenständiges Spiel oder spätere Einbindung in die Lesedetektive.
+1. **Ein einziges Spiel** mit verschiedenen Detektivfällen und abwechslungsreichen Ermittlungsrunden; keine getrennten Minispiele.
+2. **Fallakten mit bezeichnenden Titeln** und laufend erweiterbarem Bestand. Nutzerbeispiel: **„Wer stahl des Schneemanns Nase?“** einschließlich des Wortspiels *stahl/Stahl*.
+3. **Fallwahl:** Das Kind kann entweder eine **Zufallsakte** erhalten oder eine Akte **selbst auswählen**.
+4. **Mehrere zusammenhängende Schritte** pro Fall; Hinweise sammeln und am Ende den Fall wirklich aufklären.
+5. **Pinnwand:** Eine abgeschlossene Akte wird als **„GELÖST“** markiert und mit einer auffälligen Bewegung an die Pinnwand **geknallt/geheftet**. So werden erledigte Fälle sichtbar gesammelt.
+6. **Eigenständige Entwicklung:** Nur das neue Repository `hamthor-web/Detektivspiel` verwenden. Die bestehende App im Repository `hamthor-web/lesedetektive` nicht ungefragt verändern. Spätere Integration ausdrücklich entscheiden.
+7. **Eine zentrale GitHub-Spielakte:** Bestätigte Beschlüsse und größere Arbeitsschritte hier festhalten; keine parallelen unübersichtlichen Nachtragsketten. Nichts Bestehendes ohne Zustimmung löschen, verschieben oder überschreiben.
 
-## 3. Bereits existierende Materialien / technische Abgrenzung
+## Ausdrücklich eingebrachte Ideen, Details noch offen
 
-- Materialquelle: hochgeladenes Dokument **„Nur ein bisschen anders“**, 57 ähnliche Wortpaare (redaktionell noch nicht vollständig auf Eignung und Korrektheit geprüft).
-- Im Chat wurde die eigenständige HTML-Testdatei **`Lesedetektive_Fall_01_Die_verschwundene_Nase.html`** bereitgestellt sowie ein erster Fallakten-Nachtrag. **Das ist kein Beleg für eine GitHub-Veröffentlichung.**
-- Dieses Repository wurde von Heike am 15.11.2026 neu angelegt, damit das Experiment nicht die bereits funktionierenden Lesedetektive verändert.
-- Technische Funktionen, Animationen, Spielstände oder Geräteprüfungen werden **nur dann als umgesetzt** geführt, wenn die zugehörigen Dateien tatsächlich im Repository beziehungsweise im Test vorliegen.
+- **Veränderte Buchstaben:** ähnliche Wörter / Austausch, Ergänzung oder Wegfall von Buchstaben als Ermittlungsmechanik. Das Kind soll die Lösung oft aus dem Handlungskontext erschließen und nicht immer vorgegeben bekommen.
+- **Glücksrad:** Nutzeridee, könnte Ermittlungsaufgaben oder Hinweise auswählen. **Genaue Funktion nicht beschlossen.** Zufall darf den logischen Zusammenhang des Falls nicht zerstören.
+- **Reißwolf:** Nutzeridee: Oben verschwindet ein Wort oder Schriftstück, unten fallen **einzelne bunte, durcheinandergewürfelte Buchstaben** heraus. Mögliche Rekonstruktion von Hinweiswörtern; genaue Aufgabe noch offen.
+- **Detektivbüro** als Startoberfläche mit Akten, Pinnwand, Glücksrad, Reißwolf; Gestaltungsvorschlag, kein fertig bestätigtes Layout.
+- Persönliche Pinnwand und dauerhafte Speicherung je Kind, erneutes Spielen gelöster Fälle, bevorzugt ungelöste Zufallsakten: plausible Vorschläge; konkrete Speichervorgaben noch festzulegen.
 
-## 4. Gestaltungsregeln für die spätere Umsetzung
+## Mögliche Ermittlungsrunden (Ideen, nicht final beschlossen)
 
-- Zielgruppe: Kinder der 2. Klasse, auch Deutsch als Zweitsprache; Lesen und Verstehen stehen im Mittelpunkt.
-- Sinnvolle Nutzung der Bildschirmfläche, große Schriften und Buttons mit ausreichendem Kontrast.
-- Hoch- und Querformat sowie Smartphone und Tablet berücksichtigen; Inhalte dürfen auch mit vergrößerter Schrift nicht abgeschnitten werden.
-- **Zwei voneinander unabhängige Zoomfunktionen:** Spielfeld/Bilder und Schrift.
-- Dekorierte Schaltflächen nicht verzerren; Randbereiche proportional erhalten, nur neutrale Mittelflächen anpassen.
-- Kinder sollen ohne unnötigen Zeitdruck ermitteln können. Falls später Zeitrunden eingeführt werden, muss die aktive Zeit bei Unterbrechung korrekt pausieren.
-- Vor Freigabe Test auf unterschiedlichen Bildschirmgrößen, insbesondere Hoch-/Querformat und beide Zoomregler.
+- Manipulierten Buchstaben in einem Hinweis finden.
+- Fehlenden Buchstaben / Buchstabengruppe aus einem Satz erschließen.
+- Bunten Buchstabensalat aus dem Reißwolf rekonstruieren.
+- Verdächtige befragen, Aussagen vergleichen, echte und falsche Spuren unterscheiden.
+- Glücksrad für abwechslungsreiche, aber logisch passende Spuren einsetzen.
+- Hinweise kombinieren und eine echte Schlussfrage beantworten.
+- Verschieden lange Fälle mit verschiedenen Aufgabentypen.
 
-## 5. Vereinbarung zur Projektverwaltung und Speicherorten
+## Erster Testfall: noch kein freigegebener Handlungsentwurf
 
-1. **GitHub:** Diese Spielakte ist ab jetzt die fortlaufend zu pflegende **zentrale Fassung** der Entscheidungen für das Detektivspiel. Code und ausführbare Fassungen liegen gesondert im selben Repository. Jede technische Änderung muss gegen den tatsächlichen GitHub-Stand geprüft werden.
-2. **ChatGPT-Projektquellen:** Dateien landen dort **nicht automatisch**, nur weil sie im Chat erstellt, als Download angeboten oder auf GitHub gespeichert wurden. Der Status der Aufnahme als Projektquelle muss jeweils ausdrücklich geprüft oder als offen gekennzeichnet werden.
-3. **Chats:** Die Gespräche sind Entwicklungs- und Entscheidungsverlauf, aber **kein Ersatz** für die gepflegte Spielakte.
-4. **Masterübersicht der Lesespiele:** Beim nächsten Abgleich der zentralen Projektverwaltung ist ein eigenständiger Eintrag „Detektivspiel – in Planung/Prototyp“ mit Link auf dieses Repository vorzusehen. **Nicht als bereits aktualisiert ausgeben**, bevor das wirklich geschehen ist.
-5. Keine vorhandenen Chats, Quellen, Repositories, Dateien oder bestätigten Animationen ohne ausdrückliche Zustimmung löschen, verschieben oder überschreiben.
-6. Jede größere Änderung mit Datum, Status (**beschlossen / vorgeschlagen / programmiert / getestet / veröffentlicht**) und bei Bedarf Link auf Commit oder Test dokumentieren.
+Arbeitstitel **„Die verschwundene Nase“**, später vielleicht **„Wer stahl des Schneemanns Nase?“**.
 
-## 6. Nächster sachlicher Schritt
+Eine eigenständige HTML-Datei `Lesedetektive_Fall_01_Die_verschwundene_Nase.html` wurde im Chat erstellt. Testfolge: **HASE → NASE**, **MAUS → HAUS**, **FISCH → TISCH**, **TASSE → TASCHE**, danach Schlussauflösung.
 
-Den ersten Fall erzählerisch neu konstruieren, sodass jedes Wort-Rätsel **aus einem konkreten Hinweis entsteht**. Reißwolf und Glücksrad als echte, unterscheidbare Ermittlungswerkzeuge testen, ohne die Lesedetektive-App zu verändern.
+**Kritik der Nutzerin:** MAUS → HAUS ist erzählerisch nicht überzeugend. Der Fall muss inhaltlich neu durchdacht werden, damit jedes Rätsel eine nachvollziehbare Spur ist. Der Prototyp ist **nicht freigegeben und noch nicht in dieses Repository hochgeladen**.
+
+## Verbindliche Gestaltungsregeln
+
+- Zielgruppe zweite Klasse: große, gut lesbare, kontrastreiche Schrift und gut erreichbare, große Schaltflächen.
+- Verfügbare Bildschirmfläche sinnvoll nutzen; keine abgeschnittenen Inhalte.
+- Smartphone/Tablet im Hoch- und Querformat.
+- **Zwei unabhängige Zoomfunktionen** für Spielfeld/Bilder einerseits und Schrift andererseits.
+- Dekorierte Buttonränder unverzerrt erhalten; nur neutrale Mitte dehnen.
+- Vor Freigabe Geräteformate, Orientierungen und beide Zoomregler prüfen.
+- Kein Zeitmodus beschlossen; zunächst ohne Zeitdruck.
+
+## Technischer Stand (bei Anlage dieser Akte)
+
+| Bestandteil | Tatsächlicher Stand |
+|---|---|
+| Eigenes GitHub-Repository | Neu eingerichtet |
+| `SPIELAKTE.md` | Mit dieser Änderung angelegt |
+| Erster Testfall | Nur als eigenständige HTML-Chatdatei, **nicht hier** |
+| Glücksrad/Reißwolf | Ideen, **nicht implementiert** |
+| Detektivbüro/Pinnwand | Konzept, **nicht implementiert** |
+| Persönliche Fortschrittsspeicherung | Noch nicht implementiert |
+| Weitere Fälle | Noch nicht entwickelt |
+| Integration in „Lesedetektive“ | Nicht beauftragt |
+| Tests einer fertigen Version dieses Repositories | Noch nicht möglich |
+
+## Offene Entscheidungen und nächste Schritte
+
+1. Den ersten Fall mit wirklich begründeten Hinweisen neu entwickeln.
+2. Reißwolf und Glücksrad als unterschiedliche Aufgabenmechaniken konzipieren.
+3. Unterschiedliche Ermittlungsrunden mit sinnvollem Fallabschluss erproben.
+4. Fallwahl, Pinnwand und Fortschrittsspeicherung pro Kind im Detail klären.
+5. Die Wortpaare redaktionell auf eindeutige Bedeutungen, richtige Schreibung und Altersangemessenheit prüfen.
+6. Spielprototypen **im neuen Repository** testen; alte Lesedetektive nicht ungefragt verändern.
+
+## Quellen, Versionen und Projektverwaltung
+
+- **Diese Datei:** maßgebliche dokumentierte Entscheidungen und offener Entwicklungsstand.
+- **GitHub-Code:** einzig maßgeblicher Nachweis tatsächlich hochgeladener Implementierungen.
+- **Originalmaterial:** `nur ein bisschen anders .docx` aus dem Projektchat; noch nicht hier hinterlegt.
+- **Alter erster HTML-Prototyp:** Datei im Chat, noch nicht hier hinterlegt.
+- **Historische Entscheidungen:** Chatverlauf vom 15.11.2026.
+- **ChatGPT-Projektquellen und Masterübersicht:** Werden durch GitHub **nicht automatisch** aktualisiert. Für das zentrale Projekt muss bei Statusänderungen separat eine Verknüpfung bzw. eine Übersicht gepflegt werden.
+
+## Änderungsverlauf
+
+- **15.11.2026:** Wortpaare und erster HTML-Testfall; erzählerische Schwäche bei MAUS → HAUS festgestellt.
+- **15.11.2026:** Glücksrad und Reißwolf vorgeschlagen; ein Spiel mit mehreren Fällen, Pinnwand und Wahl Zufallsakte/eigene Akte bestätigt.
+- **15.11.2026:** Neues Repository für getrennte Entwicklung vereinbart; GitHub als zentraler Ablageort der Spielakte festgelegt; Dokumentation erstellt.
