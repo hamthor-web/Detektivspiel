@@ -176,7 +176,42 @@ Die Doppeldeutigkeit **„A-Meise“** entsteht als spielerische Verbindung von 
 
 Der Witz ist bewusst **A + Meise**, nicht bloß eine gewöhnliche Ameise als Tierhelfer. Die konkrete Szene, der Einsatzort und die Animation sind noch zu entwickeln.
 
+## Ideenpool: versteckte Buchstaben in Gegenständen und Landschaften (16.11.2026)
+
+**Status: Zehn redaktionell zusammengestellte Vorschläge als Ideenpool, noch keine freigegebenen Fallrätsel, Grafiken oder Programmierung.** Ausgangsidee der Nutzerin: ein **A, das sich als Teil einer Tannenbaumzeichnung versteckt**. Die Form des Buchstabens soll möglichst aus der natürlichen Bildkontur entstehen, nicht einfach als aufgedruckter Buchstabe erscheinen.
+
+| Buchstabe | Versteck im Bild | Erkennbare Form | Mögliche Verwendung als Hinweiswort |
+|---|---|---|---|
+| **A** | Tannenbaum: zwei schräge Äste mit Querast | Zwei Schenkel und Querstrich bilden ein A | **_ST → AST** |
+| **H** | Gartenzaun: zwei Pfosten mit Querlatte | Senkrecht – waagerecht – senkrecht | **_UT → HUT** |
+| **S** | Geschwungener Waldweg oder Spur im Schnee | Kontinuierliche S-Kurve | **_PUR → SPUR** |
+| **O** | Rundes Vogelnest von oben | Geschlossener Ring | **T_R → TOR** |
+| **T** | Wegweiser: Pfahl mit waagerechtem Schild | Senkrechter Stamm, Querbalken oben | **_ISCH → TISCH** |
+| **U** | Hufeisen am Scheunentor | Deutlich offenes U | **_HR → UHR** |
+| **M** | Silhouette zweier Bergspitzen | Zwei Spitzen und mittlere Senke; Außenkanten ergeben M | **_AUS → MAUS** |
+| **N** | Geländer: zwei Pfosten mit schräger Strebe | Zwei senkrechte Linien und verbindende Diagonale | **_ASE → NASE** |
+| **V** | Astgabel oder Vogelflügel in V-Stellung | Zwei schräge Linien treffen sich unten | **_OGEL → VOGEL** |
+| **Z** | Blitzspur oder zickzackförmiger Riss | Zwei waagerechte Stücke und verbindende Diagonale | **_AUN → ZAUN** |
+
+### Einsatzprinzip
+
+1. Das Kind findet den **Buchstaben im Bild** (Entdeckungsaufgabe).
+2. Es kann die Form bei Bedarf mit einem Finger nachfahren oder durch einen optionalen Hinweis hervorheben lassen. Die Visualisierung darf den Fund nicht von Beginn an verraten.
+3. Der gefundene Buchstabe wandert in den **Rucksack** beziehungsweise ergänzt eine **in der Fallhandlung begründete Wortlücke**.
+4. Die Wortlösung führt zu einer **wirklichen nächsten Spur**. Nicht jeder Buchstabe muss in demselben Fall genutzt werden.
+5. Die Hilfen sind gestuft: erst aufmerksam machen, dann den Bildbereich eingrenzen, erst zuletzt den Buchstaben nachzeichnen.
+
+### Gestalterische und pädagogische Prüfung vor Umsetzung
+
+- Der Buchstabe muss sich **ohne künstliche Verzerrung** plausibel aus dem Gegenstand ergeben; einige Varianten (besonders M und N) benötigen präzise Bildgestaltung.
+- Nicht die ganze Szene mit dekorativen Buchstaben überfrachten; der gesuchte Buchstabe muss auch auf Smartphones und bei unabhängigem Bild-/Schriftzoom erkennbar sein.
+- **A im Tannenbaum** ist die konkrete Nutzerskizze. Die neun weiteren Verstecke und alle Beispielwörter sind redaktionelle Vorschläge, keine von der Nutzerin bestätigten Einzelrätsel.
+- Wortlücken sind illustrative Beispiele. In einem tatsächlichen Fall müssen Ort, Handlung und Hinweise diese Wörter nachvollziehbar motivieren.
+- Diese Sammlung ersetzt **weder** die bereits bestätigte **A-Meise** **noch** die Szene mit dem **H** im Rucksack aus Fall 01.
+
 ## Änderungsverlauf
+
+- **16.11.2026:** Zehn Vorschläge für bildintegrierte versteckte Buchstaben (A/H/S/O/T/U/M/N/V/Z) mit möglichen Hinweiswörtern aufgenommen; nur A im Baum stammt als konkrete Vorlage von der Nutzerin, übrige Vorschläge bleiben offen.
 
 - **16.11.2026:** Wortspiel „A-Meise“ als ausdrücklich bestätigte Idee aufgenommen; Meise bringt A im Schnabel. Noch keine Umsetzung/Zuordnung.
 
