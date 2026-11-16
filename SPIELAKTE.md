@@ -168,7 +168,17 @@ Diese Werkzeuge ergänzen den Buchstabenmixer, Reißwolf, das geheime Glücksrad
 - Die Hilfe soll **zur Geschichte passen** und das Kind beim eigenen Entdecken unterstützen, statt die Lösung grundlos vorwegzunehmen.
 - Ob die Ameise wiederkehrt oder je nach Fall unterschiedliche Tiere bzw. Figuren helfen, bleibt offen. Ebenso, ob der Helfer auf Anfrage oder überraschend erscheint.
 
+## Bestätigte Wortspielidee: A-Meise (16.11.2026)
+
+**Von der Nutzerin ausdrücklich bestätigt – konkrete Verwendung in einem Fall noch offen.**
+
+Die Doppeldeutigkeit **„A-Meise“** entsteht als spielerische Verbindung von **einer Meise** und **dem Buchstaben A**. Eine Meise kann mit einem großen **A** im Schnabel angeflogen kommen und einen nützlichen Buchstaben für die Ermittlung bringen. Das Würstchen bemerkt den Wortwitz („Eine A-Meise!“). Der Buchstabe kann anschließend als Hinweis in einem Rätsel gebraucht werden.
+
+Der Witz ist bewusst **A + Meise**, nicht bloß eine gewöhnliche Ameise als Tierhelfer. Die konkrete Szene, der Einsatzort und die Animation sind noch zu entwickeln.
+
 ## Änderungsverlauf
+
+- **16.11.2026:** Wortspiel „A-Meise“ als ausdrücklich bestätigte Idee aufgenommen; Meise bringt A im Schnabel. Noch keine Umsetzung/Zuordnung.
 
 - **16.11.2026:** Ameise und mögliche weitere kleine Helfer als Hinweis- oder Buchstabenbringer in das Ideenrepertoire aufgenommen; noch keiner Fallakte zugeordnet.
 
