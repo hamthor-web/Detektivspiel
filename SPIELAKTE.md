@@ -209,7 +209,23 @@ Der Witz ist bewusst **A + Meise**, nicht bloß eine gewöhnliche Ameise als Tie
 - Wortlücken sind illustrative Beispiele. In einem tatsächlichen Fall müssen Ort, Handlung und Hinweise diese Wörter nachvollziehbar motivieren.
 - Diese Sammlung ersetzt **weder** die bereits bestätigte **A-Meise** **noch** die Szene mit dem **H** im Rucksack aus Fall 01.
 
+## Erweiterter Buchstabenmixer: Zwei Gegenstände, neue Wörter (16.11.2026)
+
+**Status: Neue Nutzeridee für das Spielrepertoire; genaue Bedienung, Fälle und grafische Umsetzung noch offen.**
+
+- **Zwei Gegenstände** (bzw. deren geschriebene Namen) kommen gemeinsam in den Buchstabenmixer.
+- Aus der Mischung fallen **alle Einzelbuchstaben durcheinander** heraus.
+- Das Kind setzt sie **zu anderen sinnvollen Wörtern** zusammen – möglichst mehr als ein Zielwort –, die **als neue Spuren die Geschichte tatsächlich voranbringen**.
+- Dadurch unterscheidet sich die neue Variante vom Schneemann-Fall: Dort wird **ein Wort (SAHNE) zu NASE plus Restbuchstabe H**; hier werden **zwei Ausgangswörter mit neu verteilten Buchstaben** kombiniert.
+- Vor Einbau müssen alle Buchstabenmengen genau stimmen, und die neuen Wörter müssen in der jeweiligen Szene einen nachvollziehbaren Sinn ergeben. Was mit Restbuchstaben passiert, falls solche Rätsel ausdrücklich vorgesehen werden, ist noch offen.
+
+**Erster rechnerisch stimmiger Beispielsatz – nicht als Fall beschlossen:** **ROSE + HUT → ROST + HEU**. Die sieben Buchstaben bleiben exakt erhalten (R, O, S, E, H, U, T). Beispielsweise könnte ROST auf ein altes Metalltor und HEU auf eine Scheune hinweisen; **diese Ermittlungsszene ist erst eine mögliche Verwendung**, keine feststehende Geschichte.
+
+**Offen:** Ob die Gegenstände direkt in die Maschine gezogen werden, wie die Buchstabensuppe sortiert und mit dem Rucksack verknüpft wird und welche Hilfen Kinder der zweiten Klasse erhalten. Die klare Unterscheidbarkeit der beiden Zielwörter ist wichtig; keine reinen Zufallskombinationen ohne Handlungsbezug.
+
 ## Änderungsverlauf
+
+- **16.11.2026:** Nutzeridee für den erweiterten Mixer: zwei Gegenstände einfüllen und die neu gemischten Buchstaben zu anderen Wörtern als nächste Hinweise zusammensetzen. Beispiel ROSE + HUT → ROST + HEU als unverbindlicher Vorschlag.
 
 - **16.11.2026:** Zehn Vorschläge für bildintegrierte versteckte Buchstaben (A/H/S/O/T/U/M/N/V/Z) mit möglichen Hinweiswörtern aufgenommen; nur A im Baum stammt als konkrete Vorlage von der Nutzerin, übrige Vorschläge bleiben offen.
 
