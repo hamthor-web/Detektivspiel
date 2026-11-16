@@ -148,7 +148,20 @@ Das ist der neue entscheidende Ansatz: Eine ungewöhnliche Szene führt zu einer
 - Die Zitruspresse soll **nicht automatisch in den Schneemann-Fall** eingebaut werden. Ihr Einsatz bleibt für geeignete spätere Fälle offen.
 - Für die spätere Gestaltung denkbar: eine humorvolle Press-Animation, bei der statt Saft ein einzelner gut sichtbarer Buchstabe erscheint; diese Animation ist noch nicht beschlossen oder erstellt.
 
+## Weitere Ermittlungswerkzeuge: Besen, Teppichklopfer, Fön und Strohhalm (16.11.2026)
+
+**Status: Nutzerideen für das Werkzeugrepertoire späterer Fälle; noch nicht einzelnen Fällen zugeordnet und nicht programmiert.**
+
+- **Besen:** Ein versteckter Buchstabe wird mit dem Besen **unter einem Möbelstück hervorgeholt**. Der Fund kann eine Lücke in einem Hinweis füllen.
+- **Teppichklopfer:** Das Kind klopft einen staubigen Teppich aus; **im aufgewirbelten Staub erscheint der gesuchte Buchstabe**. Die Enthüllung soll deutlich lesbar sein.
+- **Fön:** Aus **einer Spalte oder einem schmalen Zwischenraum** wird ein einzelner Buchstabe **oder ein ganzes Wort hervorgeblasen**.
+- **Strohhalm:** Ein Buchstabe oder Wort liegt **am Boden eines Glases** und wird mit einem Strohhalm gerettet. Als zusätzliche Animationsidee können **die Buchstaben am Strohhalm entlang aus dem Glas hochklettern**.
+
+Diese Werkzeuge ergänzen den Buchstabenmixer, Reißwolf, das geheime Glücksrad und die Zitruspresse. In jeder Szene soll das Werkzeug einen **plausiblen, spielerisch begründeten Zweck** erfüllen und eine tatsächliche Spur zugänglich machen. Es ist noch offen, in welchen Fällen und mit welcher konkreten Bedienung diese Effekte verwendet werden. Keine Änderung an Fall 01 daraus ableiten.
+
 ## Änderungsverlauf
+
+- **16.11.2026:** Besen, Teppichklopfer, Fön und Strohhalm samt Buchstaben-/Wortfund und möglicher Kletteranimation als neue Werkzeugideen aufgenommen; noch keine Fallzuordnung.
 
 - **16.11.2026:** Zitruspresse als weiteres mögliches Ermittlungswerkzeug vorgemerkt: Einen fehlenden Buchstaben herauspressen und später als Hinweis nutzen. Nicht für Fall 01 festgelegt.
 
