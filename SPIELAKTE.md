@@ -233,7 +233,49 @@ Der Witz ist bewusst **A + Meise**, nicht bloß eine gewöhnliche Ameise als Tie
 - Die so erzeugten Wörter müssen **in der Fallhandlung als echte Hinweise wirken** und etwas voranbringen, statt nur beliebige Wortlisten zu ergeben.
 - **Noch zu entscheiden:** ob nur eine passende Auswahl zur Lösung führt oder mehrere gültige Kombinationen denkbar sind; Umgang mit Restbuchstaben, Rucksack, Animationen, Hilfen und Schwierigkeitsstufen.
 
+## Tauschbörse: Buchstaben-Tauschgeschäfte (16.11.2026)
+
+**Status:** Nutzerin hat die Ideensammlung ausdrücklich zum Speichern freigegeben. Das Grundprinzip stammt von ihr; der Name **„Tauschbörse“**, die zwölf weiteren Wortpaare und Beispiel-Szenen sind Vorschläge. **Noch keine technische Umsetzung oder verbindliche Fallzuordnung.**
+
+### Grundprinzip
+
+Zwei Gegenstände oder Figuren begegnen sich. **Jeder gibt genau einen Buchstaben ab und erhält den Buchstaben des anderen.** Danach entstehen **zwei andere gültige Wörter**. Die neuen Gegenstände, Figuren oder Hinweise können die Detektivgeschichte voranbringen. Es ist ein eigenständiger Spielmodus neben dem Buchstabenmixer: Bei der Tauschbörse wird **genau eine Position pro Wort ersetzt**, während im Mixer ganze Buchstabenbestände beliebig neu sortiert werden können.
+
+**Originalbeispiel der Nutzerin:** **HASE + ROSEN → HOSE + RASEN** (A ↔ O). Die Geschichte könnte den Worttausch als überraschende Begegnung der beiden Figuren zeigen.
+
+### Zwölf weitere Tauschgeschäfte (geprüfte Buchstabenwechsel)
+
+| Nr. | Vorher | Nachher | Tausch |
+|---|---|---|---|
+| 1 | MAUS + HUT | HAUS + MUT | M ↔ H |
+| 2 | KATZE + TOPF | TATZE + KOPF | K ↔ T |
+| 3 | KASSE + TANNE | TASSE + KANNE | K ↔ T |
+| 4 | KOPF + TASSE | TOPF + KASSE | K ↔ T |
+| 5 | WIESE + RATTE | RIESE + WATTE | W ↔ R |
+| 6 | WIESE + RABE | RIESE + WABE | W ↔ R |
+| 7 | RAD + BAUM | BAD + RAUM | R ↔ B |
+| 8 | FISCH + TINTE | TISCH + FINTE | F ↔ T |
+| 9 | HUND + BAND | HAND + BUND | U ↔ A |
+| 10 | HOSE + MATTE | HASE + MOTTE | O ↔ A |
+| 11 | HOSE + TANNE | HASE + TONNE | O ↔ A |
+| 12 | KISTE + PAPPE | PISTE + KAPPE | K ↔ P |
+
+**Mögliche Ermittlungsszenen, nicht beschlossen:**
+- Katze und Topf tauschen K/T → Tatze und Kopf; eine auffällige Tatze wird zur Spur.
+- Wiese und Ratte tauschen W/R → Riese und Watte; eine überraschende Verwandlung.
+- Fisch und Tinte tauschen F/T → Tisch und Finte; eine Finte deutet auf ein Ablenkungsmanöver.
+- Hase möchte ein O; das Kind sucht ein Wort, dessen Buchstabentausch beiden hilft.
+
+**Gestaltungsregeln für spätere Umsetzung:**
+- Beide Ausgangswörter und beide Zielwörter müssen korrekt geschrieben und **ohne verbleibende oder hinzugefügte Buchstaben** aus genau einem Buchstabentausch gebildet werden.
+- Das Kind liest, entdeckt und **führt den Tausch möglichst selbst aus**; die Verwandlung beider Wörter/Gegenstände kann gleichzeitig animiert werden.
+- Ein Tausch sollte zur jeweiligen Fallgeschichte passen, nicht nur formal funktionieren. Die neuen Wörter müssen eine echte Folge für die Ermittlung haben.
+- Beim Design für die zweite Klasse mit DaZ auf **geläufige Wörter**, klare Bildsprache, gestufte Hilfen und gut erreichbare Bedienelemente achten. Manche Vorschläge (z. B. „Finte“) benötigen sprachliche Erklärung.
+- Die zwölf Paare sind **Ideenpool**, keine Zusage, alle in einen Fall einzubauen; tatsächliche Animationen und Mechanik sind nicht programmiert.
+
 ## Änderungsverlauf
+
+- **16.11.2026:** Tauschbörse mit dem Originalbeispiel HASE + ROSEN → HOSE + RASEN und zwölf weiteren Wortpaaren als ausdrücklich zu speichernde Ideensammlung ergänzt; keine technische Implementierung.
 
 - **16.11.2026:** Nutzeridee: Buchstabenmixer bietet eine eigene Wortauswahl und wechselnde Umordnungsaufgaben, auch mit ein oder zwei Eingabewörtern; verbindliche Falllogik und Auswahlregeln noch offen.
 
