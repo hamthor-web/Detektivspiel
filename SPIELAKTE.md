@@ -223,7 +223,19 @@ Der Witz ist bewusst **A + Meise**, nicht bloß eine gewöhnliche Ameise als Tie
 
 **Offen:** Ob die Gegenstände direkt in die Maschine gezogen werden, wie die Buchstabensuppe sortiert und mit dem Rucksack verknüpft wird und welche Hilfen Kinder der zweiten Klasse erhalten. Die klare Unterscheidbarkeit der beiden Zielwörter ist wichtig; keine reinen Zufallskombinationen ohne Handlungsbezug.
 
+## Buchstabenmixer mit freier Wortauswahl (16.11.2026)
+
+**Status: neuer Nutzerwunsch zur abwechslungsreichen Spielmechanik; noch nicht programmiert.**
+
+- Das Spiel kann dem Kind **mehrere lesbare Wörter oder Gegenstände anbieten**. Das Kind wählt **selbst**, welches Wort oder welche Wörter es in den Mixer steckt, um durch Neuordnen der Buchstaben etwas anderes entstehen zu lassen.
+- Der Mixer soll damit ein **wiederverwendbares Werkzeug für Anagramm- und Umordnungsaufgaben** sein, statt immer dieselbe Abfolge anzubieten: gelegentlich ein einzelnes Wort (z. B. SAHNE → NASE plus H), gelegentlich zwei Wörter und neue Zielwörter (z. B. ROSE + HUT → ROST + HEU), gelegentlich Auswahl aus mehreren angebotenen Wörtern.
+- **Spielerische Freiheit ohne Sackgassen:** Welche Einwürfe sinnvoll sind und was daraus entstehen kann, muss anhand des konkret verfügbaren Buchstabenbestandes und der Geschichte vorab geprüft werden. Das Kind darf ausprobieren, aber eine nicht hilfreiche Kombination darf nicht zu einem unlösbaren Fall führen. Mögliche Rückgabe / erneute Auswahl / gestufte Hinweise offen.
+- Die so erzeugten Wörter müssen **in der Fallhandlung als echte Hinweise wirken** und etwas voranbringen, statt nur beliebige Wortlisten zu ergeben.
+- **Noch zu entscheiden:** ob nur eine passende Auswahl zur Lösung führt oder mehrere gültige Kombinationen denkbar sind; Umgang mit Restbuchstaben, Rucksack, Animationen, Hilfen und Schwierigkeitsstufen.
+
 ## Änderungsverlauf
+
+- **16.11.2026:** Nutzeridee: Buchstabenmixer bietet eine eigene Wortauswahl und wechselnde Umordnungsaufgaben, auch mit ein oder zwei Eingabewörtern; verbindliche Falllogik und Auswahlregeln noch offen.
 
 - **16.11.2026:** Nutzeridee für den erweiterten Mixer: zwei Gegenstände einfüllen und die neu gemischten Buchstaben zu anderen Wörtern als nächste Hinweise zusammensetzen. Beispiel ROSE + HUT → ROST + HEU als unverbindlicher Vorschlag.
 
