@@ -138,7 +138,19 @@ Das ist der neue entscheidende Ansatz: Eine ungewöhnliche Szene führt zu einer
 
 **Detailkonzept:** [FALL_01_KONZEPT.md](FALL_01_KONZEPT.md).
 
+## Ermittlungswerkzeug-Idee: Zitruspresse (16.11.2026)
+
+**Status: Nutzeridee für das Werkzeugrepertoire zukünftiger Detektivfälle; nicht auf Fall 01 festgelegt, noch nicht programmiert.**
+
+- Neben Buchstabenmixer, Reißwolf und geheimem Glücksrad soll eine **Zitruspresse** als mögliches Ermittlungswerkzeug vorgemerkt werden.
+- Mit ihr kann das Kind aus einem rätselhaften Gegenstand, einer Frucht, einem Fundstück oder einer Nachricht **einen noch fehlenden Buchstaben „herauspressen“**. Was genau hineinkommt und weshalb der Buchstabe darin verborgen ist, muss sich aus der jeweiligen Fallhandlung ergeben.
+- Der herausgepresste Buchstabe wird anschließend in einem Wort oder Hinweis eingesetzt beziehungsweise bis zur späteren Verwendung gesammelt.
+- Die Zitruspresse soll **nicht automatisch in den Schneemann-Fall** eingebaut werden. Ihr Einsatz bleibt für geeignete spätere Fälle offen.
+- Für die spätere Gestaltung denkbar: eine humorvolle Press-Animation, bei der statt Saft ein einzelner gut sichtbarer Buchstabe erscheint; diese Animation ist noch nicht beschlossen oder erstellt.
+
 ## Änderungsverlauf
+
+- **16.11.2026:** Zitruspresse als weiteres mögliches Ermittlungswerkzeug vorgemerkt: Einen fehlenden Buchstaben herauspressen und später als Hinweis nutzen. Nicht für Fall 01 festgelegt.
 
 - **16.11.2026:** Neue Schneemann-Szene mit SAHNE → NASE + H im Rucksack nach Nutzeridee aufgenommen; vorläufige Fortsetzung mit HUT, verborgenem Glücksrad, KISTE und möglicher Auflösung als separaten Fallentwurf dokumentiert.
 
