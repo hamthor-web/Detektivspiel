@@ -273,7 +273,39 @@ Zwei Gegenstände oder Figuren begegnen sich. **Jeder gibt genau einen Buchstabe
 - Beim Design für die zweite Klasse mit DaZ auf **geläufige Wörter**, klare Bildsprache, gestufte Hilfen und gut erreichbare Bedienelemente achten. Manche Vorschläge (z. B. „Finte“) benötigen sprachliche Erklärung.
 - Die zwölf Paare sind **Ideenpool**, keine Zusage, alle in einen Fall einzubauen; tatsächliche Animationen und Mechanik sind nicht programmiert.
 
+## Satzdetektiv: falsches Wort erkennen und austauschen (16.11.2026)
+
+**Status: neue Nutzeridee, von ihr als gewünschte zusätzliche Spielweise beschrieben; noch nicht programmiert oder konkreten Fällen zugewiesen.**
+
+**Verbindliche Materialgrundlage:** Das von der Nutzerin zu Beginn gelieferte Originaldokument **„Nur ein bisschen anders“** (57 Wortpaar-Aufgaben mit bereits formulierten Sätzen). Das Dokument wurde in den Projektdateien wiedergefunden; seine Originalsätze sollen **vorrangig verwendet** werden, nicht durch frei erfundene Varianten ersetzt.
+
+**Mechanik:** Die Wörter aus den ähnlichen Paaren werden innerhalb eines ursprünglich passenden Satzes absichtlich gegeneinander ausgetauscht. Das Kind muss (1) **den ganzen Satz lesen**, (2) das **inhaltlich unpassende Wort selbst entdecken**, ohne vorherige Hervorhebung, (3) das Wort auswählen und gegen das richtige austauschen, (4) durch den korrigierten Satz einen für die Fallhandlung **sinnvollen Hinweis** erhalten. Je nach Fall kann die Verwandlung als Worttausch, Buchstabentausch oder mit dem bereits entwickelten Mixer inszeniert werden; der Fokus liegt auf **Sinnverständnis**, nicht nur auf Buchstabenerkennung.
+
+**Direkt aus der Nutzerdatei belegte Paare und Originalsätze:**
+
+| Wortpaar aus der Quelle | Originalsatz aus der Quelle | Beispielsatz mit absichtlichem Fehler (neu konstruiert) |
+|---|---|---|
+| NASE / VASE | „In der Vase steht eine Blume. Oma steckt ihre Nase hinein und schnuppert.“ | „Oma steckt ihre Vase hinein und schnuppert.“ (Satzkontext benötigt vorher die Blume) |
+| FISCH / TISCH | „Ich male einen Fisch mit Hut. Das Bild liegt auf dem Tisch.“ | „Ich male einen Tisch mit Hut.“ |
+| TASSE / TASCHE | „In der Tasse ist Tee. In der Tasche ist eine Jacke.“ | „In der Tasche ist Tee.“ |
+| TOPF / KOPF | „Der leere Topf ist blitzblank. Im Spiel trägt ihn der Teddy auf dem Kopf.“ | „Der leere Kopf ist blitzblank.“ |
+| HUT / MUT | „Auf meinem Hut sitzt eine Spinne. Ich fasse Mut und bitte sie herunter.“ | „Auf meinem Mut sitzt eine Spinne.“ |
+| HAUS / MAUS | „Das Haus hat ein rotes Dach. Die Maus versteckt sich im Loch.“ | „Die Maus hat ein rotes Dach.“ |
+| SEITE / SAITE | „Auf der Seite ist eine Gitarre zu sehen. Eine Saite hat sich als Schlange verkleidet.“ | „Eine Seite hat sich als Schlange verkleidet.“ |
+
+**Hinweis zur Quellentreue:** Original- und Fehlersätze in der Tabelle klar unterscheiden; die absichtlich falschen Sätze sind **eigene Ableitungen**, keine Zitate aus der Datei. Die in der Quelle teils zweisätzigen Aufgaben dürfen nicht durch isolierte Fehlerformulierungen ihre erzählerische Logik verlieren. Die konkrete Zuordnung zu einem Fall, Reihenfolge und Anzahl sind noch offen.
+
+**Qualitätsregeln vor Umsetzung:**
+- Der Fehler soll möglichst **grammatisch möglich, aber semantisch unpassend** sein. „Der Schneemann hat eine rote Hase“ wäre wegen des falschen Artikels ungeeignet.
+- **Keine optische Vorwarnung** durch voreingefärbtes falsches Wort; erst nach eigenem Entdecken helfen.
+- Einige Originalpaare bilden vor allem Klang-/Schreibunterschiede ab, die sich **nicht** für jede Satzschablone eignen. Nur passende Aufgaben auswählen; übrige Paare für andere Mechaniken erhalten.
+- Ein korrigierter Satz sollte möglichst eine **relevante Spur** aufdecken, nicht nur eine isolierte Richtig/falsch-Prüfung.
+- Lesbare große Schrift, vollständige Erreichbarkeit bei unabhängigem Schrift- und Spielfeldzoom, Hilfe ohne Zeitdruck.
+- Das Ausgangsdokument bleibt unverändert. Für spätere Entwicklung die exakten 57 Aufgaben vollständig prüfen; die Tabelle hier ist ein erster Ausschnitt.
+
 ## Änderungsverlauf
+
+- **16.11.2026:** Satzdetektiv-Mechanik als weitere Variante ergänzt: Sätze aus „Nur ein bisschen anders“ gezielt durch Austausch eines ähnlichen Wortes verfälschen; Kind entdeckt und korrigiert das unpassende Wort selbst.
 
 - **16.11.2026:** Tauschbörse mit dem Originalbeispiel HASE + ROSEN → HOSE + RASEN und zwölf weiteren Wortpaaren als ausdrücklich zu speichernde Ideensammlung ergänzt; keine technische Implementierung.
 
