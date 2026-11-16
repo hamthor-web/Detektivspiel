@@ -159,7 +159,18 @@ Das ist der neue entscheidende Ansatz: Eine ungewöhnliche Szene führt zu einer
 
 Diese Werkzeuge ergänzen den Buchstabenmixer, Reißwolf, das geheime Glücksrad und die Zitruspresse. In jeder Szene soll das Werkzeug einen **plausiblen, spielerisch begründeten Zweck** erfüllen und eine tatsächliche Spur zugänglich machen. Es ist noch offen, in welchen Fällen und mit welcher konkreten Bedienung diese Effekte verwendet werden. Keine Änderung an Fall 01 daraus ableiten.
 
+## Ermittlungshelfer: Ameise und andere kleine Helfer (16.11.2026)
+
+**Status: neue Nutzeridee für spätere Detektivfälle; noch keine konkrete Figur, Handlung oder Animation festgelegt und nicht programmiert.**
+
+- Eine **Ameise** oder ein anderer kleiner Helfer kann im Verlauf einer Ermittlung auftauchen und **einen weiteren Buchstaben bringen**, einen verlorenen Buchstaben transportieren oder **einen Hinweis auf die Lösung** liefern.
+- Der Helfer kann beispielsweise an schwer zugängliche Orte gelangen und etwas finden, das das Würstchen selbst übersehen hat. So ergänzt er die bereits vorgemerkten Ermittlungswerkzeuge.
+- Die Hilfe soll **zur Geschichte passen** und das Kind beim eigenen Entdecken unterstützen, statt die Lösung grundlos vorwegzunehmen.
+- Ob die Ameise wiederkehrt oder je nach Fall unterschiedliche Tiere bzw. Figuren helfen, bleibt offen. Ebenso, ob der Helfer auf Anfrage oder überraschend erscheint.
+
 ## Änderungsverlauf
+
+- **16.11.2026:** Ameise und mögliche weitere kleine Helfer als Hinweis- oder Buchstabenbringer in das Ideenrepertoire aufgenommen; noch keiner Fallakte zugeordnet.
 
 - **16.11.2026:** Besen, Teppichklopfer, Fön und Strohhalm samt Buchstaben-/Wortfund und möglicher Kletteranimation als neue Werkzeugideen aufgenommen; noch keine Fallzuordnung.
 
